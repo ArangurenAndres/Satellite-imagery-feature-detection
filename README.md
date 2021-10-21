@@ -41,3 +41,10 @@ The model that was implemented is known as U-net which is a fully convolutionalN
 ## Segmentation of standing water
 <img src="https://github.com/ArangurenAndres/Satellite-imagery-feature-detection/blob/main/Prediction%20Model%202_1.png" width="700" height="300">
 
+## Code
+
+-The main model can be found at Project_main.ipynb
+-Preprocessing of the training dataset is contained at images_preprocessing.py 
+
+
+
